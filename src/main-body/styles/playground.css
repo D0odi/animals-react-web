@@ -1,0 +1,16 @@
+.playground {
+    display: grid;
+    grid-template-rows: 10fr 2fr;
+}
+
+.action-field {
+    grid-row: 1;
+}
+
+.game-controls {
+    grid-row: 2;
+    display: flex;
+    gap: 2vw;
+    justify-content: center;
+    align-items: center;
+}
