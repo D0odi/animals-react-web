@@ -5,6 +5,8 @@
 
 .action-field {
     grid-row: 1;
+    display: flex;
+    margin: 4vh;
 }
 
 .game-controls {
